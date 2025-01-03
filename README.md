@@ -16,8 +16,3 @@ If you will not connect with your firebase and try to run this app with mine fir
 After Registering as delivery person , copy UID of that delivery person from firebase and in : "FoodOn_FoodDelivery_by_Androrealm/app/src/main/java/com/food_on/app/ChefFoodPanel/ChefPreparedOrderView.java" file
 at line 65=> String deliveryId = "oCpc4SwLVFbKO0fPdtp4R6bmDmI3"; paste here.
 Similarly, Do this in DeliveryPendingOrderFragment.java file
-
-
-## Connect with me:
-[<img align="left" alt="androrealm | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://rb.gy/r4yzzi)
-[<img align="left" alt="dshakir52 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dshakir52/).
